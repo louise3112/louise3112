@@ -1,8 +1,8 @@
 ### Hello 😄
 
-🌱 I’m currently studying Professional Software Development at CodeClan.
+🌱   I’m currently studying Professional Software Development at CodeClan.
 
-📫 If you want to get in touch, drop me a message via [LinkedIn](https://www.linkedin.com/in/lcuthbertson3112/).  
+📫   If you want to get in touch, drop me a message via [LinkedIn](https://www.linkedin.com/in/lcuthbertson3112/).  
 
 
 <!--
