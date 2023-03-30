@@ -1,4 +1,4 @@
-### Hello 😄
+## Hello 😄
 
 🌱   I’ve recently graduated from the Professional Software Development course at CodeClan, Edinburgh
 
@@ -8,7 +8,7 @@
 
 
 
-## Other Projects I Have Contributed To
+#### Other Projects I Have Contributed To
 - [Children of the Bookcase](https://github.com/samuel-williams-ed/Escape_Game): A 3D, first-person escape room style puzzle game, built using C# and Unity for our CodeClan 2 week Capstone project.
 
 
